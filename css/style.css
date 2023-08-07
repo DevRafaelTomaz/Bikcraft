@@ -14,7 +14,11 @@
 /*bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
+/* bicicleta interno */
+@import "./bicicleta/bicicleta.css";
 /*Seguros*/
 @import "./seguro/seguros.css";
+@import "./seguro/vantagens.css";
+@import "./seguro/perguntas.css";
 /* termos */
 @import "./termos/termos.css";
